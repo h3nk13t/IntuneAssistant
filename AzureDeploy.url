@@ -2,4 +2,4 @@
 Prop3=19,11
 [InternetShortcut]
 IDList=
-URL=https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/h3nk13t/IntuneAssistant/blob/main/azuredeploy.json
+URL=https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FH3nk13t%2FIntuneAssistant%2Fmain%2Fazuredeploy.json
